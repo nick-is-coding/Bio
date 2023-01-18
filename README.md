@@ -1,7 +1,5 @@
 HELLO! 👋🏼 
 
-![1665517978486](https://user-images.githubusercontent.com/96067193/213294695-c3e042ac-a9f0-4ece-b2b7-775b316b3585.jpeg)
-
 If you have stumbled upon my profile, here are a couple things I'd like to share with you! 
 
 I am an avid learner, leader, and builder. I've spent the last couple of years as a 360 recruiter where I managed and spoke to Clients and Candidates within the Tech industry. I led the backend team which consisted of 3 incredible people and helped build out strong processes that enabled them to be more efficient and hit their goals. 
