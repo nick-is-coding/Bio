@@ -1,21 +1,31 @@
-HELLO! 👋🏼 
+👋 Hi there, I'm Nick! 👋
 
-If you have stumbled upon my profile, here are a couple things I'd like to share with you! 
+### 🤓 About Me
 
-I am an avid learner, leader, and builder. I've spent the last couple of years as a 360 recruiter where I managed and spoke to Clients and Candidates within the Tech industry. I led the backend team which consisted of 3 incredible people and helped build out strong processes that enabled them to be more efficient and hit their goals. 
+I'm the creative behind the "Create Yourself Podcast" and a total breakdancing and music enthusiast. In a past life, I was a lead 360 consultant within the tech industry, but I quickly discovered the magic of coding and fell head over heels in love with its limitless potential. Now, I use my knack for interpersonal communication to create dynamic solutions that bridge the gap between tech and the human experience. 🤪
 
-Now, my current focus is on the Frontend (React, JS, HTML, CSS). I'm the type of person that loves to be thrown into the fire so that I can have the opportunity and challenge to rise from the ashes! 
+### 🔭 What I'm Working On
 
-Professionally: 
-- Working hard every day (working 9-5) on my skills as a developer. 
-- Technologies: JavaScript, HTML, CSS, Git, APIs -- next I am learning React and Swift! 
+Right now, I'm pouring all of my energy into boosting my frontend skills to score my dream job as a Frontend Developer! I'm already feeling the excitement of what the future holds and am beyond stoked to put my new knowledge into action. Can you feel the magic in the air? I sure can! 🪄
 
-Personally: 
-- A HUGE creative dabbler!
-- Dabbles: Dance (Breakdancer, HipHop, Modern), Art, Music, and more! 
+### 🌱 What I'm Learning
 
-LinkedIn: https://www.linkedin.com/in/nicholoshoang/
+The world of REACT! 
 
-Nicholos Hoang
-nickjhoang@gmail.com
-817-723-1570
+### 💬 Let's Connect!
+
+I'm always interested in connecting with like-minded individuals and learning from others in the development community. Feel free to reach out to me on https://www.linkedin.com/in/nicholoshoang/ and let's chat!
+
+### Technologies
+🚀 React
+🌐 Node.js
+🎨 MaterialUI
+🎨 CSS
+🌐 HTML
+💻 JavaScript
+🌐 REST APIs
+🐙 Git
+🐙 GitHub
+📦 NPM
+🍎 Swift
+
