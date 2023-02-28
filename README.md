@@ -19,13 +19,15 @@ I'm always interested in connecting with like-minded individuals and learning fr
 ### Technologies
 🚀 React
 🌐 Node.js
+🌐 Express.js
 🎨 MaterialUI
 🎨 CSS
 🌐 HTML
 💻 JavaScript
+💻 TypeScript
 🌐 REST APIs
 🐙 Git
 🐙 GitHub
 📦 NPM
 🍎 Swift
-
+☁ AWS
