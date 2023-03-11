@@ -31,3 +31,6 @@ I'm always interested in connecting with like-minded individuals and learning fr
 📦 NPM
 🍎 Swift
 ☁ AWS
+🐳 Docker
+🌊 DigitalOcean
+⛏ CI/CD
