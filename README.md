@@ -34,3 +34,4 @@ I'm always interested in connecting with like-minded individuals and learning fr
 🐳 Docker
 🌊 DigitalOcean
 ⛏ CI/CD
+🕸 Kubernetes 
