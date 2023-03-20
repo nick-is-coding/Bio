@@ -6,11 +6,11 @@ I'm the creative behind the "Create Yourself Podcast" and a total breakdancing a
 
 ### 🔭 What I'm Working On
 
-Right now, I'm pouring all of my energy into boosting my frontend skills to score my dream job as a Frontend Developer! I'm already feeling the excitement of what the future holds and am beyond stoked to put my new knowledge into action. Can you feel the magic in the air? I sure can! 🪄
+Right now, I'm pouring all of my energy into boosting my fullstack skills to score my dream job as a Fullstack Developer! I'm already feeling the excitement of what the future holds and am beyond stoked to put my new knowledge into action. Can you feel the magic in the air? I sure can! 🪄
 
 ### 🌱 What I'm Learning
 
-The world of REACT! 
+Sharpening my React skills, along with creating some APIs on the backend using Node & Express! 
 
 ### 💬 Let's Connect!
 
