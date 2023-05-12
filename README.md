@@ -10,6 +10,7 @@ I'm always interested in connecting with like-minded individuals and learning fr
 
 ### Technologies
 🚀 React
+📦 Redux
 🌐 Node.js
 🌐 Express.js
 🎨 MaterialUI
